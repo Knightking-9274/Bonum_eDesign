@@ -12,8 +12,8 @@ Features:
 Technologies Used:
 - Android Studio
 - Java
-- Volley for network requests
-- Picasso for image loading
+- Volley for network requests  // implementation ("com.android.volley:volley:1.2.1")
+- Picasso for image loading  // implementation ("com.squareup.picasso:picasso:2.8")
 
 How to Use:
 1. Clone the repository to your local machine.
